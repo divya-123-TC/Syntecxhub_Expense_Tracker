@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Syntexhub_Expense_Tracker/static/css/main.0706f58b.css",
+    "main.js": "/Syntexhub_Expense_Tracker/static/js/main.d34591f1.js",
+    "static/js/453.cb9d4415.chunk.js": "/Syntexhub_Expense_Tracker/static/js/453.cb9d4415.chunk.js",
+    "index.html": "/Syntexhub_Expense_Tracker/index.html",
+    "main.0706f58b.css.map": "/Syntexhub_Expense_Tracker/static/css/main.0706f58b.css.map",
+    "main.d34591f1.js.map": "/Syntexhub_Expense_Tracker/static/js/main.d34591f1.js.map",
+    "453.cb9d4415.chunk.js.map": "/Syntexhub_Expense_Tracker/static/js/453.cb9d4415.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0706f58b.css",
+    "static/js/main.d34591f1.js"
+  ]
+}
